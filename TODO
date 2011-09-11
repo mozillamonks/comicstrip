@@ -1,0 +1,17 @@
+           Comic Strip - Extract individual frames of a comic book
+           -------------------------------------------------------
+
+TODO/Ideas
+----------
+
+- Add GNU AGPL details to output
+
+- Parallel processing of pages
+
+- Front end to process files conveniently
+    Step1: Identify the pages to be processed (including title)
+    Step2: Choose various parameters (left/right ignore etc)
+    Step3: Fire
+
+--
+vim:tw=80

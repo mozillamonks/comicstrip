@@ -1,0 +1,4 @@
+Changelog:
+
+2009/10/10  David Koo  <koofoss(at)g-m-x(dot)com>
+	* Initial working copy. Works only with cbz files (no cbr support).
